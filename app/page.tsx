@@ -299,7 +299,7 @@ export default function Home() {
           >
             <span className="font-medium">Phone:</span>
             <a href="tel:+6281234567890" className="text-blue-600 hover:text-blue-800 transition">
-              +62 812-3456-7890
+              +62 82211645560
             </a>
           </motion.div>
         </div>
